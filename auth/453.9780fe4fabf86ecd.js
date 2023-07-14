@@ -1,1 +1,0 @@
-(self.webpackChunkauth=self.webpackChunkauth||[]).push([[453],{7029:(e,r,t)=>{var o=t(1135);r.s=o.createRoot,o.hydrateRoot},5453:(e,r,t)=>{t.r(r);var o=t(2322),s=t(9619),a=t(7029),h=t(607),c=t(522);a.s(document.getElementById("root")).render((0,o.jsx)(s.StrictMode,{children:(0,o.jsx)(h.BrowserRouter,{children:(0,o.jsx)(c.Z,{})})}))}}]);
